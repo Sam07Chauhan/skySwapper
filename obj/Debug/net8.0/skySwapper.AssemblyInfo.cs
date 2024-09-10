@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skySwapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+513a945f294a0051dc03ea99b49fedac66e6acac")]
 [assembly: System.Reflection.AssemblyProductAttribute("skySwapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skySwapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
